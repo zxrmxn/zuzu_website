@@ -10,8 +10,7 @@ tags:
 - IoT
 - Hardware
 description: ""
-weight: # 1 means pin the article, sort articles according to this number
-slug: ""
+slug: "smartgreenhouse"
 draft: false # draft or not
 showToc: true # show contents
 TocOpen: true # open contents automantically
@@ -115,7 +114,6 @@ void loop() {
     float humidity = dht.readHumidity();
     float temperature = dht.readTemperature();
     float hix = dht.computeHeatIndex(temperature, humidity, false);
-
 }
 ```
 
