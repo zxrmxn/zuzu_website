@@ -1,0 +1,45 @@
+languageCode: en-us
+baseURL: ""
+title: Zuharman
+theme: PaperMod
+
+markup:
+  highlight:
+    noClasses: true  # disables Chroma CSS classes (use this when using highlight.js)
+    style: monokai   # irrelevant if using highlight.js, but included for completeness
+
+params:
+  ShowCodeCopyButtons: true
+  profileMode:
+    enabled: true
+    title: "Zuharman" # optional default will be site title
+    subtitle: "Welcome to **Zuharman's** website, some of you may know me as **Zuzu**."
+    imageUrl: /images/profile.jpg # optional
+    # imageTitle: "<title of image as alt>" # optional
+    imageWidth: 200 # custom size
+    imageHeight: 200 # custom size
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/Zuharman/"
+    - name: github
+      url: "https://github.com/zxrmxn"
+    - name: instagram
+      url: "https://www.instagram.com/zxrmxn"
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 1
+
+    - identifier: blog
+      name: Blogs
+      url: /blogs/
+      weight: 2
+
+    - identifier: resume
+      name: Resume
+      url: /documents/Resume_Zuharman.pdf
+      weight: 3

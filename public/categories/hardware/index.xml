@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hardware on Zuharman</title>
+    <link>//localhost:1313/categories/hardware/</link>
+    <description>Recent content in Hardware on Zuharman</description>
+    <generator>Hugo -- 0.147.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 May 2025 20:11:08 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Prototype] Smart Greenhouse</title>
+      <link>//localhost:1313/blogs/smartgreenhouse/</link>
+      <pubDate>Mon, 05 May 2025 20:11:08 +0700</pubDate>
+      <guid>//localhost:1313/blogs/smartgreenhouse/</guid>
+      <description>&lt;p&gt;A smart IoT device to help run a hydroponic greenhouse more smoothly. The device comes with sensors that check temperature, humidity, and the level of dissolved solids (TDS) in the water that’s used to feed the plants. If the temperature inside the greenhouse gets too high, the device will automatically turn on a fan to cool it down. All of this runs on its own—no need to constantly check things manually. It’s basically like having an automatic assistant that helps keep the greenhouse environment just right, making things easier and more efficient for the people running it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

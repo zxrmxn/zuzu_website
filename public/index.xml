@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Zuharman</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Zuharman</description>
+    <generator>Hugo -- 0.147.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 May 2025 20:11:08 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Prototype] Smart Greenhouse</title>
+      <link>//localhost:1313/blogs/smartgreenhouse/</link>
+      <pubDate>Mon, 05 May 2025 20:11:08 +0700</pubDate>
+      <guid>//localhost:1313/blogs/smartgreenhouse/</guid>
+      <description>&lt;p&gt;A smart IoT device to help run a hydroponic greenhouse more smoothly. The device comes with sensors that check temperature, humidity, and the level of dissolved solids (TDS) in the water that’s used to feed the plants. If the temperature inside the greenhouse gets too high, the device will automatically turn on a fan to cool it down. All of this runs on its own—no need to constantly check things manually. It’s basically like having an automatic assistant that helps keep the greenhouse environment just right, making things easier and more efficient for the people running it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 05 May 2025 01:46:42 +0700</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi, I’m &lt;strong&gt;Zuharman&lt;/strong&gt;, an IT operations and infrastructure enthusiast with a strong foundation in networking, systems, and support. Over the past few years, I’ve worked in fast-paced environments across banking, automotive, and fintech, where I’ve helped teams stay connected, secure, and efficient.&lt;/p&gt;
+&lt;p&gt;At &lt;strong&gt;Bank Raya Indonesia&lt;/strong&gt;, I’m currently focused on improving product reliability through data analysis, SQL reporting, and quality assurance. Previously at &lt;strong&gt;Mitsubishi DIPO Gatot Subroto&lt;/strong&gt;, I handled network infrastructure across multiple branches, managed firewalls, supported users, and even built a real-time monitoring system with Grafana and Prometheus.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
